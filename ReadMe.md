@@ -1,7 +1,9 @@
 👋 Olá, eu sou Lucas Fiais!
 
 🎓 Estudante de **Sistemas de Informação**
+
 💻 Interessado em **Desenvolvimento de Software, Python e Banco de Dados**
+
 🚀 Em busca da minha **primeira oportunidade na área de Tecnologia da Informação**
 
 🧑‍💻 Sobre mim
